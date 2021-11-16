@@ -1,0 +1,25 @@
+.single-service{
+    border: 1px solid lightgray;
+    border-radius: 8px;
+}
+.single-service img {
+    border-radius: 8px;
+}
+/* .single_service_wrapper{
+
+} */
+.booking_form{
+    margin-top: 70px !important;
+    padding: 0px 50px !important;
+}
+.booking_wrapper{
+    width: 100% !important;
+}
+.work_btn{
+    padding: 10px 50px;
+    border-radius: 25px;
+    font-weight: 700;
+    background-color: #2D3E52;
+    border: none;
+    color: white;
+}

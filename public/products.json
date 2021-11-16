@@ -1,0 +1,96 @@
+[
+    {
+    "id": 1,
+    "name": "3T Bikes",
+    "description": "3TTT – Tecnologia del Tubo Torino started out making carbon fiber components for road race bikes in the beginning of 1961. The 3T Explore was the brands first gravel bike released in 2016 when the gravel industry started to hit off..",
+   "price": 2000,
+ "image": "https://images.unsplash.com/photo-1496150590317-f8d952453f93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+},
+
+{
+    "id": 2,
+    "name": " Alchemy Bicycles",
+    "price": 1420,
+    "description": "To build the best Bicycle in the world” is the motto of Alchemy Bicycles.It was their main mission when they started in 2008 and is still their main motivation today. The Denver based American brand pride themselves. ",
+    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+},
+
+{
+    "id": 3,
+    "name": "Bianchi Bicycles",
+    "price": 7000,
+     "description": "1885, Italy – One of the oldest surviving bike brands in the world, Italian brand Bianchi is recognized by their turquoise-blue paint named ‘Celeste #227’. Bianchi road bikes have a racing pedigree, with multiple Grand.",
+    "image": "https://images.unsplash.com/photo-1456990493443-0d0ee2a630cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    
+},
+{
+    "id": 4,
+    "name": "Brompton Bikes",
+    "price": 4000,
+    "description": "Brompton is one of the most iconic folding bicycle manufacturer. Their range consists of well-engineer folding, and electric folding bikes with rich history and attention to detail.Read our review to get a better understanding their attention to detail.",
+    "image": "https://i.pinimg.com/564x/9b/26/0c/9b260c1a875296b7d58de57ed00eee92.jpg"
+    
+},
+{
+    "id": 5,
+    "name": "Cannondale Bikes",
+    "price": 8000,
+    "description": "Cannondale is one of the most popular bicycle brands in the world. A relatively young brand, it was founded in 1971 in Connecticut, USA. One of the first brands to embrace carbon fiber in bike production, Cannondale is a firm rider favorite of our shop.",
+    "image": "https://i.pinimg.com/564x/7f/fb/29/7ffb292811a8a5729d29df6c2281efe6.jpg"
+    
+},
+{
+    "id": 6,
+    "name": "Canyon Bicycles",
+    
+    "price": 5000,
+    "description": "Canyon Bicycles are favored by seasoned cyclists, or by anyone who has been looking for bikes with plenty of engineering behind the build.Canyon has taken a different approach regards building and marketing – their focus is to build bikes.",
+    
+    "image": "https://i.pinimg.com/564x/c2/5e/90/c25e903fde59c7cbc70d6a1b81fe821f.jpg"
+    
+},
+{
+    "id": 7,
+    "name": "Retrospec Cycles",
+    "price": 6500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://i.pinimg.com/564x/1d/2a/04/1d2a04d3a184458747d9145cfa9b38c1.jpg"
+},
+{
+    "id": 8,
+    "name": "Cube Bikes",
+    "price": 5500,
+    "description": "Although a relatively young brand being founded in 1993, Cube cannot be omitted when talking about the best bike companies. This is a German brand, so Cube bikes are much more popular in Europe, than in the USA.",
+    "image": "https://i.pinimg.com/736x/b1/97/84/b19784366afe2dd6cb969f712aa62989.jpg"
+},
+{
+    "id": 9,
+    "name": "Devinci Cycles",
+    "price": 7500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://i.pinimg.com/564x/95/f1/63/95f163f18bc904f6b78d6368765efebe.jpg"
+},
+{
+    "id": 10,
+    "name": "Diamondback Bikes",
+    "price": 7500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://i.pinimg.com/564x/17/52/79/175279bdb20b9396f5249e4efc09785f.jpg"
+},
+{
+    "id": 11,
+    "name": "Electra Bikes",
+    "price": 6500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://i.pinimg.com/564x/92/03/47/9203473e0dcb6c10a29a8801781b4c24.jpg"
+},
+{
+    "id": 12,
+    "name": "Evil Bikes",
+    "price": 4500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://i.pinimg.com/564x/75/7a/b3/757ab3d7cfe64c64e64837d923fa4695.jpg"
+}
+
+
+]
